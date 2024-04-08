@@ -42,3 +42,4 @@ models:
       rpt:
         +materialized: table
         +schema:  RPT
+        
