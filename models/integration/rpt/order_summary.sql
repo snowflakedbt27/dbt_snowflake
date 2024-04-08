@@ -1,3 +1,4 @@
+
 with final as (
     select c.r_name as region_name, 
     count(*) as order_count , 
