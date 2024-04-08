@@ -2,8 +2,8 @@ version: 2
 
 sources:
   - name: my_project
-    database: analytics  
-    schema: raw  
+    database: analytics
+    schema: raw
     tables:
       - name: nation
       - name: customer
