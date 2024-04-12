@@ -1,3 +1,3 @@
 {%macro lean_logging() %}
-{{ log("call you mom")}}
+{{ log("call you DAD",info=True)}}
 {% endmacro %}
